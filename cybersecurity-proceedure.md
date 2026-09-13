@@ -12,9 +12,10 @@ New NC State students receive lots of emails in a short period of time as they b
 
 Look closely at the “from” field of an email. Official NC State emails end in “@ncsu.edu”.
 If the sender is using a different domain (e.g., @ncsu-support.com) or a personal account (@gmail.com), be wary and treat the message with suspicion. 
-
+![Good Email](assets/good-email.png)
 Figure 1 above: Email sent by a good domain.
 Figure 2 below: Email sent by a bad domain.
+![Bad Email](assets/bad-email.png)
 
 ### Step 2: Look for Urgency and Threats
 
@@ -22,7 +23,7 @@ The wording of these emails is meant to induce panic. Phishing emails pressure y
 
 Official communication will provide a greater amount of information, including information on any breaches or action steps the school is taking. You will also be directed to an existing school portal to do things like reset a password, instead of being sent a link.
 
-
+![Panic](assets/panic.png)
 Figure 3 above: Urgent, panic-inducing wording.
 
 ### Step 3: Inspect Links
@@ -36,6 +37,7 @@ Avoid opening any attachments from unknown senders. Phishing attachments often i
 Additionally, check any logos within the email. If a logo appears as a separate file attachment at the bottom of the email instead of being embedded in the message, treat the email with suspicion.
 
 Figure 4 below: Official logos appended to the email rather than appearing in the body of the message.
+![Logo](assets/logo.png)
 
 ## Task 2: Reporting Phishing
 
@@ -55,8 +57,10 @@ Select “Report Phishing”; the option will have a fishing hook symbol next to
 On the pop-up, click the blue “Report Phishing Message” button when prompted
 This will send a copy of the message to Google's automated security and safety systems for analysis.
 
-Figure 5 left: Reporting phishing in Gmail; the ‘more’ dots and the ‘report phishing’ button are shown.
-Figure 6 right: Reporting phishing in Gmail; the report phishing pop-up window is shown, as well as a visual of the blue button that serves as a confirmation button.
+![How To Report 1](assets/report-1.png)
+Figure 5 above: Reporting phishing in Gmail; the ‘more’ dots and the ‘report phishing’ button are shown.
+Figure 6 below: Reporting phishing in Gmail; the report phishing pop-up window is shown, as well as a visual of the blue button that serves as a confirmation button.
+![How To Report 2](assets/report-2.png)
 
 ### Step 3: Contact IT Support
 
