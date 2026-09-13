@@ -6,14 +6,12 @@ Images follow Arnheim’s principles for effective visualisation, with screensho
 This procedure is designed to be instantly usable by a reader, visually clear and cohesive, and cognitively efficient for new NCSU students already overwhelmed with emails and information who need to learn or refresh their essential cybersecurity knowledge.
 
 # Analysis of Video
-
 In this video, I followed Moraine and Swarts’ 2012 guidelines for effective instructional videos, using physical, cognitive, and affective design principles. For physical design, I simply had 2 tabs open with nothing else to interfere with recording. Switching between them was fluid, reducing the visual clutter of having both open at the same time and preventing viewers from independently viewing an email I wasn’t discussing in the moment. I incorporated cursor movement and highlighting to draw and direct user attention to the subject I was on. These basic visual techniques support the perceptual clarity of my work, helping viewers immediately identify the features being discussed.
 To address the cognitive design aspect, I structured the video around comparison. I would switch between the emails, breaking them down into 4 points: sender identity, tone, link previews, and attachments. Each section presents one actionable idea at a time, reflecting Morain and Swarts’s emphasis on chunking information to reduce cognitive load. This approach also aligns with Carroll’s (1990) minimalism and Redish’s (2010) read‑to‑learn‑to‑do principles. I did my best to keep narration concise and directly tied to my on-screen actions. 
 In terms of effective design, I tried to keep a conversational but informative tone to establish a relationship with the viewer that wouldn’t overwhelm them and was supportive but still instructional. Morain and Swarts emphasise that tone and pacing are key to maintaining engagement, and so I worked hard to keep the flow steady and moving through the steps without rushing or going so slow that retention would be lost. I also ended the video by reminding viewers to slow down and follow these simple steps to protect themselves, which was meant to support them, keep them engaged with the content, and motivate them to apply their knowledge. 
 The video was designed as a supplement to the procedure, using Morain and Swarts’ criteria for physical, cognitive, and affective design to create an effective video delivery of key information.
 
 # References: APA
-
 1) Arnheim, R. (1969). Visual thinking. University of California Press.
 2) Carroll, J. M. (1990). The Nurnberg Funnel: Designing minimalist instruction for practical computer skill. MIT Press.
 3) Redish, J. (2010). Technical communication and usability: Intersections and opportunities. Routledge.
