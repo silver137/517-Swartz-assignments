@@ -3,10 +3,14 @@
 - __Purpose:__ Learn to do 2 Essential Cybersecurity Tasks
     1) Identify phishing email attempts
     2) Report suspicious emails to NC State’s OIT
+ 
+<!-- This is all good information for the analysis, but not needed in the procedure itself. Also, you can remove words like "topic" and "task" and "step" all of which should be readily apparent to the reading audience. -->
 
 ## Task 1: Identifying Phishing
 
 New NC State students receive lots of emails in a short period of time as they begin their careers as students. Advisors, instructors, and various campus services are reaching out with instructions and links in an environment and through portals often unfamiliar to new students. Phishing emails mimic these messages in an attempt to steal login credentials or personal information. This procedure serves as a cheat sheet for recognising phishing to protect yourself.
+
+<!-- Good overview. You might forecast the steps -->
 
 ### Step 1: Always check the sender’s email address. 
 
@@ -15,15 +19,17 @@ If the sender is using a different domain (e.g., @ncsu-support.com) or a persona
 ![Good Email](assets/good-email.png)
 
 Figure 1 above: Email sent by a good domain.
-Figure 2 below: Email sent by a bad domain.
+Figure 2 below: Email sent by a bad domain. <!-- Put the figure captions below the figures. Not sure that you need a visual to illustrate a safe email, but the potential phishing email is made more evident with the visual -->
 
 ![Bad Email](assets/bad-email.png)
 
 ### Step 2: Look for Urgency and Threats
 
-The wording of these emails is meant to induce panic. Phishing emails pressure you to act immediately (e.g., your account will be locked in 24 hours), or they introduce some sort of looming threat (eg., your password has been leaked; reset it immediately using this link).
+The wording of these <!-- "these, meaning phishing emails? --> emails is meant to induce panic. Phishing emails pressure you to act immediately (e.g., your account will be locked in 24 hours), or they introduce some sort of looming threat (eg., your password has been leaked; reset it immediately using this link).
 
 Official communication will provide a greater amount of information, including information on any breaches or action steps the school is taking. You will also be directed to an existing school portal to do things like reset a password, instead of being sent a link.
+
+<!-- They will usually supply more information. Also, how can one tell if the link to an official school portal is legitimate? -->
 
 ![Panic](assets/panic.png)
 
@@ -34,10 +40,14 @@ Figure 3 above: Urgent, panic-inducing wording.
 Do not blindly click and follow any links you receive. Instead, hover over the link with your mouse without clicking. 
 If the URL does not match an official NC State domain or it leads to an unfamiliar portal in the preview image, do not click it.
 
+<!-- good advice, but it is easy to miss where the URL information is visible upon a hover-over. Include this information verbally or visually? -->
+
 ### Step 4: Inspect Attachments
 
 Avoid opening any attachments from unknown senders. Phishing attachments often include file types like .html, .zip, and .exe.
-Additionally, check any logos within the email. If a logo appears as a separate file attachment at the bottom of the email instead of being embedded in the message, treat the email with suspicion.
+Additionally, check any logos within the email. If a logo appears as a separate file attachment at the bottom of the email instead of being embedded in the message, treat the email with suspicion. <!-- why is that? -->
+
+<!-- How should a person follow up about attachments? -->
 
 Figure 4 below: Official logos appended to the email rather than appearing in the body of the message.
 
@@ -52,6 +62,8 @@ Take the steps recommended at the time of the attack. The rest of this task will
 
 Visit https://cybersecurity.ncsu.edu/report-phishing/ where NCSU provides up-to-date information.
 
+<!-- Unusual step. Is the step really to familiarize oneself with recommended safety steps provided by IT? -->
+
 ### Step 2: Report to Gmail
 
 Report the email to Gmail itself. This can be done in a few simple steps:
@@ -61,7 +73,11 @@ Select “Report Phishing”; the option will have a fishing hook symbol next to
 On the pop-up, click the blue “Report Phishing Message” button when prompted
 This will send a copy of the message to Google's automated security and safety systems for analysis.
 
+<!-- Should be numbered steps -->
+
 ![How To Report 1](assets/report-1.png)
+
+<!-- this image and the next show good information but are a bit too big -->
 
 Figure 5 above: Reporting phishing in Gmail; the ‘more’ dots and the ‘report phishing’ button are shown.
 Figure 6 below: Reporting phishing in Gmail; the report phishing pop-up window is shown, as well as a visual of the blue button that serves as a confirmation button.
