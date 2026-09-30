@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="businesscard.css"?>
+<!DOCTYPE businesscard SYSTEM "businesscard.dtd">
+
+<businesscard>
+  <identity>
+    <name>Denitsa Peneva</name>
+    <company>UNC Chapel Hill</company>
+  </identity>
+
+  <role>
+    <title>Research Intern - Literature Review Lead</title>
+  </role>
+  
+  <contact>
+    <email>name@unc.edu</email>
+    <phone>123-456-7890</phone>
+    <website>www.unc.edu</website>
+  </contact>
+
+  <branding>
+    <logo>unc-logo.png</logo>
+  </branding>
+
+</businesscard>

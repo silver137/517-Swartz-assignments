@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE businesscard [
+  <!ELEMENT businesscard (identity, role, contact, branding)>
+
+  <!ELEMENT identity (name, company)>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT company (#PCDATA)>
+
+  <!ELEMENT role (title)>
+  <!ELEMENT title (#PCDATA)>
+
+  <!ELEMENT contact (email, phone, website)>
+  <!ELEMENT email (#PCDATA)>
+  <!ELEMENT phone (#PCDATA)>
+  <!ELEMENT website (#PCDATA)>
+
+  <!ELEMENT branding (logo, colourscheme)>
+  <!ELEMENT logo (#PCDATA)>
+]>

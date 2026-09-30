@@ -1,0 +1,50 @@
+businesscard{
+  display: inline-block;
+  box-sizing: border-box;
+  font-family: 'EB Garamond',serif;
+  margin: 2rem auto;
+  padding: 0.125in;
+  border: 1px solid #708090;
+  width: 3.5in;
+  height: 2in;
+  background-color:navy;
+  color: white;
+}
+/* Genre Sections */
+identity, role, contact, branding {
+  display: block;
+  margin-bottom: 0.15in;
+}
+/* Identity */
+name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: .25in;
+}
+company {
+  font-size: 18px;
+  font-style:italic;
+}
+/* title */
+title {
+  font-size: 16px;
+  margin-top: 5px;
+  margin-left: .25in;
+}
+/* contact */
+email, phone, website {
+  display: block;
+  font-size: 14px;
+  margin-left: 1in;
+}
+/* branding */
+logo {
+  display: block;
+  width: .5in;
+  height: .5in;
+  background-image: url('assets/unc-logo.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-bottom: 0.015in;
+  margin-left: 2.5in;
+}
