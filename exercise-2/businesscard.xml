@@ -3,6 +3,7 @@
 <!DOCTYPE businesscard SYSTEM "businesscard.dtd">
 
 <businesscard>
+  <card>
   <identity>
     <name>Denitsa Peneva</name>
     <company>UNC Chapel Hill</company>
@@ -19,7 +20,8 @@
   </contact>
 
   <branding>
-    <logo>unc-logo.png</logo>
+    <logo></logo>
   </branding>
+  </card>
 
 </businesscard>

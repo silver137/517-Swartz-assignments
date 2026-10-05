@@ -3,5 +3,6 @@
     "colour",
     "Organisational",
     "realisation"
-  ]
+  ],
+  "liveServer.settings.port": 5501
 }

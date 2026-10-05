@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE businesscard [
-  <!ELEMENT businesscard (identity, role, contact, branding)>
+<!ELEMENT businesscard (card)>
+<!ELEMENT card (identity, role, contact, branding)>
 
   <!ELEMENT identity (name, company)>
   <!ELEMENT name (#PCDATA)>

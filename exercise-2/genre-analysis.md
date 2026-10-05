@@ -36,5 +36,4 @@ The XML file creates the real content following the predictable hierarchy. Allow
 The CSS creates the visual realisation of the genre. It applies typography, spacing, and branding, as well as providing the physical dimensions of a standard business card.
 
 ## Issues
-1) I could not load the UNC Logo. Not sure if it's just that Live Server is choosing not to load it or if I've somehow written my link wrong (but I think it's right), or some other issue I don't even know about, but I couldn't load it.
-2) I also, could not get the navy background to exist just within the border of the card. I tried. So hard. Can't figure it out. Again, maybe this is just how Live Server is loading it, but I genuinely do not understand how to fix it. 
+Haven't figured out how to add alt text to css... but I've now fixed the image loading issue and the background colour issue. 

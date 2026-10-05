@@ -1,8 +1,13 @@
-businesscard{
+businesscard {
+  display: block;
+  font-family: 'EB Garamond',serif;
+  margin-left: 3in;
+  margin-top: 1in
+}
+card {
   display: inline-block;
   box-sizing: border-box;
-  font-family: 'EB Garamond',serif;
-  margin: 2rem auto;
+  margin: 0.125in;
   padding: 0.125in;
   border: 1px solid #708090;
   width: 3.5in;
