@@ -9,6 +9,8 @@
   <!ELEMENT company (#PCDATA)>
 
   <!ELEMENT role (title)>
+
+<!-- maybe could be more than one title? title+ -->
   <!ELEMENT title (#PCDATA)>
 
   <!ELEMENT contact (email, phone, website)>
@@ -18,6 +20,8 @@
 
   <!ELEMENT branding (logo, colourscheme)>
   <!ELEMENT logo (#PCDATA)>
+
+<!-- could be zero or more instances of a logo? logo* -->
 
 <!-- colourscheme is an element that needs definition -->
 ]>
