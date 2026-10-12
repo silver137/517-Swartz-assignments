@@ -28,6 +28,9 @@ The sections and elements used will be as follows
 - Contact Block: phone, email, website,
 - Branding Block: logo, colour scheme
 
+
+<!-- Good analysis and description of the genre blocks. I like that these have fairly transparent semantic meaning -->
+
 ## Implementation Reflection
 My XML, DTD, and CSS translate the conventions of a business card into structural, visual rules. The DTD defines the required sections of the genre (identity, role, contact, branding) and restricts each to the elements typically found on a business card (name, title, email, logo). This enforces the genre’s emphasis on clarity and minimalism.
 
