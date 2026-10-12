@@ -2,6 +2,8 @@
 <!ELEMENT businesscard (card)>
 <!ELEMENT card (identity, role, contact, branding)>
 
+<!-- Why not combine businesscard and card? -->
+
   <!ELEMENT identity (name, company)>
   <!ELEMENT name (#PCDATA)>
   <!ELEMENT company (#PCDATA)>
@@ -16,4 +18,6 @@
 
   <!ELEMENT branding (logo, colourscheme)>
   <!ELEMENT logo (#PCDATA)>
+
+<!-- colourscheme is an element that needs definition -->
 ]>
